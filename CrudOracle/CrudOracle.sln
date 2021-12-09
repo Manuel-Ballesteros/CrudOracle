@@ -3,16 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DATA ACCESS", "DATA ACCESS", "{228F09AF-FC87-419B-A340-CD088861FEB8}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.CapaUsuario", "1.CapaUsuario", "{228F09AF-FC87-419B-A340-CD088861FEB8}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BUSSINES LOGIC", "BUSSINES LOGIC", "{BCB6E73E-B716-4B80-B12D-B56B416F6875}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.CapaNegocio", "2.CapaNegocio", "{867D2030-B500-41BE-8526-C3F07FD48005}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.CapaDatos", "3.CapaDatos", "{BA414D81-56DA-45AB-BCC8-2E54F2B80739}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.CapaComun", "4.CapaComun", "{7F347FCD-1E04-4E90-936A-4EB714083C77}"
 EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{BCB6E73E-B716-4B80-B12D-B56B416F6875} = {228F09AF-FC87-419B-A340-CD088861FEB8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4D338785-2B7D-40CF-BE39-0902BCFF0F71}
