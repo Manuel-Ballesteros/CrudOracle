@@ -5,9 +5,14 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DATA ACCESS", "DATA ACCESS", "{228F09AF-FC87-419B-A340-CD088861FEB8}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BUSSINES LOGIC", "BUSSINES LOGIC", "{BCB6E73E-B716-4B80-B12D-B56B416F6875}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BCB6E73E-B716-4B80-B12D-B56B416F6875} = {228F09AF-FC87-419B-A340-CD088861FEB8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4D338785-2B7D-40CF-BE39-0902BCFF0F71}
