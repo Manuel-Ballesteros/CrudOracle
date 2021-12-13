@@ -1,0 +1,11 @@
+D:\CrudC#.NetOracle\CrudOracle\Servicio\bin\Debug\Servicio.dll
+D:\CrudC#.NetOracle\CrudOracle\Servicio\bin\Debug\Servicio.pdb
+D:\CrudC#.NetOracle\CrudOracle\Servicio\bin\Debug\Comun.dll
+D:\CrudC#.NetOracle\CrudOracle\Servicio\bin\Debug\Newtonsoft.Json.dll
+D:\CrudC#.NetOracle\CrudOracle\Servicio\bin\Debug\Comun.pdb
+D:\CrudC#.NetOracle\CrudOracle\Servicio\bin\Debug\Newtonsoft.Json.xml
+D:\CrudC#.NetOracle\CrudOracle\Servicio\obj\Debug\Servicio.csprojAssemblyReference.cache
+D:\CrudC#.NetOracle\CrudOracle\Servicio\obj\Debug\Servicio.csproj.CoreCompileInputs.cache
+D:\CrudC#.NetOracle\CrudOracle\Servicio\obj\Debug\Servicio.csproj.CopyComplete
+D:\CrudC#.NetOracle\CrudOracle\Servicio\obj\Debug\Servicio.dll
+D:\CrudC#.NetOracle\CrudOracle\Servicio\obj\Debug\Servicio.pdb

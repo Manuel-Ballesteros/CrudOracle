@@ -1,0 +1,14 @@
+D:\CrudC#.NetOracle\CrudOracle\Datos\bin\Debug\Datos.dll.config
+D:\CrudC#.NetOracle\CrudOracle\Datos\bin\Debug\Datos.dll
+D:\CrudC#.NetOracle\CrudOracle\Datos\bin\Debug\Datos.pdb
+D:\CrudC#.NetOracle\CrudOracle\Datos\bin\Debug\EntityFramework.dll
+D:\CrudC#.NetOracle\CrudOracle\Datos\bin\Debug\EntityFramework.SqlServer.dll
+D:\CrudC#.NetOracle\CrudOracle\Datos\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\CrudC#.NetOracle\CrudOracle\Datos\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+D:\CrudC#.NetOracle\CrudOracle\Datos\bin\Debug\EntityFramework.xml
+D:\CrudC#.NetOracle\CrudOracle\Datos\bin\Debug\EntityFramework.SqlServer.xml
+D:\CrudC#.NetOracle\CrudOracle\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+D:\CrudC#.NetOracle\CrudOracle\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+D:\CrudC#.NetOracle\CrudOracle\Datos\obj\Debug\Datos.csproj.CopyComplete
+D:\CrudC#.NetOracle\CrudOracle\Datos\obj\Debug\Datos.dll
+D:\CrudC#.NetOracle\CrudOracle\Datos\obj\Debug\Datos.pdb
